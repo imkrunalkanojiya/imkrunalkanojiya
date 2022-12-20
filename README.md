@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Promises in Simple Term](https://dev.to/imkrunalkanojiya/javascript-promises-in-simple-term-327c)
+- [POST Request in Javascript with Fetch&lpar;&rpar; and XMLHttpRequest](https://dev.to/imkrunalkanojiya/post-request-in-javascript-with-fetch-xmlhttprequest-2lob)
+- [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
+- [How to create Tabs in ReactJs using Hooks ?](https://dev.to/imkrunalkanojiya/how-to-create-tabs-in-reactjs-using-hooks--12b0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
