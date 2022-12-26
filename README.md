@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
+- [Follow 7 Step and Dockerize your ReactJS Project](https://dev.to/imkrunalkanojiya/follow-7-step-and-dockerize-your-reactjs-project-4j7b)
+- [ReactJS vs VueJS vs AngularJS](https://dev.to/imkrunalkanojiya/reactjs-vs-vuejs-vs-angularjs-2351)
 - [Javascript Promises in Simple Term](https://dev.to/imkrunalkanojiya/javascript-promises-in-simple-term-327c)
 - [POST Request in Javascript with Fetch&lpar;&rpar; and XMLHttpRequest](https://dev.to/imkrunalkanojiya/post-request-in-javascript-with-fetch-xmlhttprequest-2lob)
 - [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
