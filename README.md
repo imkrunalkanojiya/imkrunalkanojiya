@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Shell Scripting Command You should know](https://dev.to/imkrunalkanojiya/20-shell-scripting-command-you-should-know-4jii)
+- [JavaScript 3D Library - Three.JS with Example](https://dev.to/imkrunalkanojiya/javascript-3d-library-threejs-with-example-57k2)
+- [All About Drag and Drop API Builders](https://dev.to/imkrunalkanojiya/all-about-drag-and-drop-api-builders-3142)
 - [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
 - [Follow 7 Step and Dockerize your ReactJS Project](https://dev.to/imkrunalkanojiya/follow-7-step-and-dockerize-your-reactjs-project-4j7b)
 - [ReactJS vs VueJS vs AngularJS](https://dev.to/imkrunalkanojiya/reactjs-vs-vuejs-vs-angularjs-2351)
