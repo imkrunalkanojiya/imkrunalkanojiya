@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://krunalkanojiya.com](https://krunalkanojiya.com)
 
-- 📝 I regularly write articles on [https://articles.krunalkanojiya.com](https://articles.krunalkanojiya.com)
-
 - 💬 Ask me about **WordPress, ReactJS, NextJS, VueJS, Web Design, Wire-framing**
 
 - 📫 How to reach me **kanojiyakrunal5@gmail.com**
