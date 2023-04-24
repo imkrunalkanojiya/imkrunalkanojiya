@@ -13,16 +13,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
+- [Firebase V9 Firestore addDoc&lpar;&rpar; and setDoc&lpar;&rpar; Method Examples](https://dev.to/imkrunalkanojiya/firebase-v9-firestore-adddoc-and-setdoc-method-examples-nhe)
+- [Fetching Data from an API in SolidJS with Axios with Example](https://dev.to/imkrunalkanojiya/fetching-data-from-an-api-in-solidjs-with-axios-with-example-5267)
+- [SolidJS Signals: Simplify State Management and UI Updates with Reactive Programming](https://dev.to/imkrunalkanojiya/solidjs-signals-simplify-state-management-and-ui-updates-with-reactive-programming-g4h)
 - [How to create infinite scroll with fetch data from api in ReactJS](https://dev.to/imkrunalkanojiya/how-to-create-infinite-scroll-with-fetch-data-from-api-in-reactjs-1l65)
 - [20 Shell Scripting Command You should know](https://dev.to/imkrunalkanojiya/20-shell-scripting-command-you-should-know-4jii)
 - [JavaScript 3D Library - Three.JS with Example](https://dev.to/imkrunalkanojiya/javascript-3d-library-threejs-with-example-57k2)
 - [All About Drag and Drop API Builders](https://dev.to/imkrunalkanojiya/all-about-drag-and-drop-api-builders-3142)
 - [Simple Chat App using Socket.io in NodeJS](https://dev.to/imkrunalkanojiya/simple-chat-app-using-socketio-in-nodejs-22ah)
 - [Follow 7 Step and Dockerize your ReactJS Project](https://dev.to/imkrunalkanojiya/follow-7-step-and-dockerize-your-reactjs-project-4j7b)
-- [ReactJS vs VueJS vs AngularJS](https://dev.to/imkrunalkanojiya/reactjs-vs-vuejs-vs-angularjs-2351)
-- [Javascript Promises in Simple Term](https://dev.to/imkrunalkanojiya/javascript-promises-in-simple-term-327c)
-- [POST Request in Javascript with Fetch&lpar;&rpar; and XMLHttpRequest](https://dev.to/imkrunalkanojiya/post-request-in-javascript-with-fetch-xmlhttprequest-2lob)
-- [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
