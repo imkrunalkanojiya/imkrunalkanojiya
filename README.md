@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkrunalkanojiya&label=Profile%20views&color=0e75b6&style=flat" alt="imkrunalkanojiya" /> </p>
 
-- 🌱 I’m currently learning **VueJS, NuxtJS**
-
 - 👨‍💻 All of my projects are available at [https://krunalkanojiya.com](https://krunalkanojiya.com)
 
 - 💬 Ask me about **WordPress, ReactJS, NextJS, VueJS, Web Design, Wire-framing**
