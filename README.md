@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkrunalkanojiya&label=Profile%20views&color=0e75b6&style=flat" alt="imkrunalkanojiya" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://krunalkanojiya.com](https://krunalkanojiya.com)
+- 👨‍💻 All of my projects are available at [https://bento.me/krunalkanojiya](https://bento.me/krunalkanojiya))
 
 - 💬 Ask me about **WordPress, ReactJS, NextJS, VueJS, Web Design, Wire-framing**
 
