@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Find the Closest Min-Max using Javascript](https://dev.to/imkrunalkanojiya/find-the-closest-min-max-using-javascript-1kh)
+- [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
 - [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
 - [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
 - [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
@@ -19,8 +21,6 @@
 - [SolidJS Signals: Simplify State Management and UI Updates with Reactive Programming](https://dev.to/imkrunalkanojiya/solidjs-signals-simplify-state-management-and-ui-updates-with-reactive-programming-g4h)
 - [How to create infinite scroll with fetch data from api in ReactJS](https://dev.to/imkrunalkanojiya/how-to-create-infinite-scroll-with-fetch-data-from-api-in-reactjs-1l65)
 - [20 Shell Scripting Command You should know](https://dev.to/imkrunalkanojiya/20-shell-scripting-command-you-should-know-4jii)
-- [JavaScript 3D Library - Three.JS with Example](https://dev.to/imkrunalkanojiya/javascript-3d-library-threejs-with-example-57k2)
-- [All About Drag and Drop API Builders](https://dev.to/imkrunalkanojiya/all-about-drag-and-drop-api-builders-3142)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
