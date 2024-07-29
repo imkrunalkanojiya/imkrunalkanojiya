@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 22 C++ Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
+- [Effortlessly Rotate a Matrix in Place: A Comprehensive Guide](https://dev.to/imkrunalkanojiya/effortlessly-rotate-a-matrix-in-place-a-comprehensive-guide-251j)
 - [Find the Closest Min-Max using Javascript](https://dev.to/imkrunalkanojiya/find-the-closest-min-max-using-javascript-1kh)
 - [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
 - [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
@@ -19,8 +21,6 @@
 - [Firebase V9 Firestore addDoc&lpar;&rpar; and setDoc&lpar;&rpar; Method Examples](https://dev.to/imkrunalkanojiya/firebase-v9-firestore-adddoc-and-setdoc-method-examples-nhe)
 - [Fetching Data from an API in SolidJS with Axios with Example](https://dev.to/imkrunalkanojiya/fetching-data-from-an-api-in-solidjs-with-axios-with-example-5267)
 - [SolidJS Signals: Simplify State Management and UI Updates with Reactive Programming](https://dev.to/imkrunalkanojiya/solidjs-signals-simplify-state-management-and-ui-updates-with-reactive-programming-g4h)
-- [How to create infinite scroll with fetch data from api in ReactJS](https://dev.to/imkrunalkanojiya/how-to-create-infinite-scroll-with-fetch-data-from-api-in-reactjs-1l65)
-- [20 Shell Scripting Command You should know](https://dev.to/imkrunalkanojiya/20-shell-scripting-command-you-should-know-4jii)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
