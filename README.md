@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 22 C++ Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
+- [Top 22 CPP Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
 - [Effortlessly Rotate a Matrix in Place: A Comprehensive Guide](https://dev.to/imkrunalkanojiya/effortlessly-rotate-a-matrix-in-place-a-comprehensive-guide-251j)
 - [Find the Closest Min-Max using Javascript](https://dev.to/imkrunalkanojiya/find-the-closest-min-max-using-javascript-1kh)
 - [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
