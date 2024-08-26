@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Find the Next Greater Element using Java and JavaScript](https://dev.to/imkrunalkanojiya/find-the-next-greater-element-using-java-and-javascript-5k9)
 - [Top 22 CPP Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
 - [Effortlessly Rotate a Matrix in Place: A Comprehensive Guide](https://dev.to/imkrunalkanojiya/effortlessly-rotate-a-matrix-in-place-a-comprehensive-guide-251j)
 - [Find the Closest Min-Max using Javascript](https://dev.to/imkrunalkanojiya/find-the-closest-min-max-using-javascript-1kh)
@@ -20,7 +21,6 @@
 - [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
 - [Firebase V9 Firestore addDoc&lpar;&rpar; and setDoc&lpar;&rpar; Method Examples](https://dev.to/imkrunalkanojiya/firebase-v9-firestore-adddoc-and-setdoc-method-examples-nhe)
 - [Fetching Data from an API in SolidJS with Axios with Example](https://dev.to/imkrunalkanojiya/fetching-data-from-an-api-in-solidjs-with-axios-with-example-5267)
-- [SolidJS Signals: Simplify State Management and UI Updates with Reactive Programming](https://dev.to/imkrunalkanojiya/solidjs-signals-simplify-state-management-and-ui-updates-with-reactive-programming-g4h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
