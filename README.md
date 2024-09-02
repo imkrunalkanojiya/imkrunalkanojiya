@@ -11,16 +11,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Find the Next Greater Element using Java and JavaScript](https://dev.to/imkrunalkanojiya/find-the-next-greater-element-using-java-and-javascript-5k9)
-- [Top 22 CPP Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
-- [Effortlessly Rotate a Matrix in Place: A Comprehensive Guide](https://dev.to/imkrunalkanojiya/effortlessly-rotate-a-matrix-in-place-a-comprehensive-guide-251j)
-- [Find the Closest Min-Max using Javascript](https://dev.to/imkrunalkanojiya/find-the-closest-min-max-using-javascript-1kh)
-- [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
-- [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
-- [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
+- [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
 - [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
 - [Firebase V9 Firestore addDoc&lpar;&rpar; and setDoc&lpar;&rpar; Method Examples](https://dev.to/imkrunalkanojiya/firebase-v9-firestore-adddoc-and-setdoc-method-examples-nhe)
 - [Fetching Data from an API in SolidJS with Axios with Example](https://dev.to/imkrunalkanojiya/fetching-data-from-an-api-in-solidjs-with-axios-with-example-5267)
+- [How to create infinite scroll with fetch data from api in ReactJS](https://dev.to/imkrunalkanojiya/how-to-create-infinite-scroll-with-fetch-data-from-api-in-reactjs-1l65)
+- [All About Drag and Drop API Builders](https://dev.to/imkrunalkanojiya/all-about-drag-and-drop-api-builders-3142)
+- [Top 10 React Libraries in 2023](https://dev.to/imkrunalkanojiya/top-10-react-libraries-in-2023-56ad)
+- [How to create Tabs in ReactJs using Hooks ?](https://dev.to/imkrunalkanojiya/how-to-create-tabs-in-reactjs-using-hooks--12b0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
