@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best RUST IDEs in 2024 🌟](https://dev.to/imkrunalkanojiya/best-rust-ides-in-2024-398b)
+- [Best C/C++ IDEs 2024: Top 10 Picks for Developers](https://dev.to/imkrunalkanojiya/best-cc-ides-2024-top-10-picks-for-developers-3jcn)
 - [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
 - [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
 - [Firebase V9 Firestore addDoc&lpar;&rpar; and setDoc&lpar;&rpar; Method Examples](https://dev.to/imkrunalkanojiya/firebase-v9-firestore-adddoc-and-setdoc-method-examples-nhe)
