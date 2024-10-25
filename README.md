@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://krunalkanojiya.com](https://krunalkanojiya.com)
 
-- 📝 I regularly write articles on [https://techalgospotlight.com](https://techalgospotlight.com)
-
 - 💬 Ask me about **Software Development & Tech Content Writing**
 
 - 📫 How to reach me **imkrunalkanojiya.com**
