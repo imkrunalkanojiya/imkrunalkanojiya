@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krunal Kanojiya</h1>
-<h3 align="center">Software Engineer | Tech Content Writer at @DEV and @TechAlgoSpotlight</h3>
+<h3 align="center">Software Engineer | Tech Content Writer at @DEV</h3>
 
 - 👨‍💻 I regularly write articles at [https://krunalkanojiya.com](https://krunalkanojiya.com)
 
