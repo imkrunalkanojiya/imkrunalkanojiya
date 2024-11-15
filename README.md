@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software Development & Tech Content Writing**
 
-- 📫 How to reach me **imkrunalkanojiya.com**
+- 📫 How to reach me **imkrunalkanojiya@gmail.com**
 
 - ⚡ Fun fact **I am sarcastic person 😅**
 
