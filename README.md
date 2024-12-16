@@ -1,4 +1,4 @@
-# 💫 Programmer
+# Average Programmer
 👨‍💻 I regularly write articles at TechAlgoSpotlight & DEV<br>💬 Ask me about Software Development & Tech Content Writing<br>📫 How to reach me imkrunalkanojiya@gmail.com<br>⚡ Fun fact I am sarcastic person 😅
 
 
